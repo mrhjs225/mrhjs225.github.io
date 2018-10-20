@@ -602,14 +602,20 @@
 		float: left;
 		width: 650px;
 	}
-	
-	.post
+	.post-app
 	{
 		margin: 5% 0 10% 0;
 		padding-bottom: 4em;
 		border-bottom: 1px solid;
 		border-color:  rgba(0,0,0,.1);
 		text-align: center;
+	}
+	.post
+	{
+		margin: 5% 0 10% 0;
+		padding-bottom: 4em;
+		border-bottom: 1px solid;
+		border-color:  rgba(0,0,0,.1);
 	}
 	.postleft
 	{
